@@ -33,6 +33,7 @@ a{
 .section-1 h2{
     font-size: 3rem;
     margin-bottom: 8px;
+    paddling-top: 0;
 }
 
 .section-1 a{
