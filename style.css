@@ -11,7 +11,7 @@ body{
     padding: 0;
     font-family: 'Roboto', sans-serif;
     background-image: url(milky-way-full-stars-space-small.jpg);
-    color: #ebecf0;
+    color: #F0F1F5;
 }
 
 h2,.white{
@@ -19,7 +19,7 @@ h2,.white{
 }
 
 a{
-    color: #ebecf0;
+    color: #F0F1F5;
     text-decoration: none;
 }
 /* section 1 */
@@ -35,7 +35,7 @@ a{
 }
 
 .section-1 h2{
-    font-size: 2.2rem;
+    font-size: 3rem;
     margin-bottom: 10px;
 }
 
@@ -89,7 +89,7 @@ a{
 .profilepic {
     border-radius: 50%; 
     border:2px solid #cccccc;
-    width: 110px;
+    width: 130px;
     padding-top: 0px !important;
     padding-bottom: 0px !important;
 }
