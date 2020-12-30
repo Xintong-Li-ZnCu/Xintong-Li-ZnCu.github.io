@@ -45,6 +45,8 @@ a{
     width: 55%;
     margin-left: 25%;
     text-align: justify;
+    position: relative;
+    left: 30%;
 }
 
 .section-2 h2{
