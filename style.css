@@ -11,7 +11,7 @@ body{
     padding: 0;
     font-family: 'Roboto', sans-serif;
     background-image: url(milky-way-full-stars-space-small.jpg);
-    color: #7A7C80;
+    color: #ebecf0;
 }
 
 h2,.white{
@@ -19,7 +19,7 @@ h2,.white{
 }
 
 a{
-    color: #7A7C80;
+    color: #ebecf0;
     text-decoration: none;
 }
 /* section 1 */
@@ -35,7 +35,7 @@ a{
 }
 
 .section-1 h2{
-    font-size: 1.7rem;
+    font-size: 2.2rem;
     margin-bottom: 10px;
 }
 
